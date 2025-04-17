@@ -1,14 +1,22 @@
-# 👋 Hey, I'm Ganesh Subbara!
-<h3 align="center"><i>A passionate Full Stack Engineer</i></h3>
-
-<p align="center">
-  <a href="mailto:dev4ganesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ganesh-subbara/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="60%">
+      <h1 align="center">👋 Hey, I'm Ganesh Subbara</h1>
+      <h3 align="center"><i>A passionate Full Stack Engineer</i></h3>
+      <p align="center">
+        <a href="mailto:dev4ganesh@gmail.com">
+          <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/ganesh-subbara/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIzN3lmMnBoMWRmemoxODk4cGFwb212a2J0Y2h0MTY0dzB6ZnpkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGVW3XMMU1cVCSKLog/giphy.gif" width="500" height="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
